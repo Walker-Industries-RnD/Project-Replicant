@@ -4,6 +4,12 @@
 
 #### Project Replicant is an AI system made with creating high quality/interactive AI running completely locally. Built atop LLMUnity, this system is made to offer developers a high fidelity template for creating AI. [Try out the project on itch.io!](https://walkerdev.itch.io/project-replicant)
 
+
+
+[![Clause1](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/WIBan.png?raw=true)](https://github.com/Walker-Industries-RnD/Malicious-Affiliation-Ban/blob/main/README.md)
+
+
+
 #### Warning! This project is still a WIP, if you are not proficient with C# and editing code I highly reccomend waiting for me to finish the new UI/Comments/Codes! This should come before the end of July 2024 with a few features talked about below!
 
 
